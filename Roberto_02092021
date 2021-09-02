@@ -1,0 +1,22 @@
+print("Question 2*****")
+for banana in range (50,61):
+    print(banana)
+
+print("Question 3*****")
+for banana in range (50,61):
+    if banana < 52 or banana > 58:
+        print(banana)
+
+print("Question 4*****")
+for banana in range (50,61):
+    if banana > 51 and banana < 56:
+        print(banana)
+
+print("Question 5*****")
+numbers=[2, 4, 6, 8, 10, 12]
+
+print("Question 6*****")
+#I could not do it
+
+print("Question 7*****")
+#I could not do it
